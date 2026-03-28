@@ -1,8 +1,6 @@
 ## Hi there 👋 👩‍💻 Im Mary Jain
 
----
-
-## 👋 Professional Summary
+## Professional Summary
 
 Experienced **Systems Engineer** with 6+ years of experience in **enterprise infrastructure, cloud migration, and virtualization environments** at **Tata Consultancy Services (TCS)**.  
 
